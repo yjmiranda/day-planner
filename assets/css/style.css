@@ -1,0 +1,19 @@
+#header{
+    border-bottom: solid black;
+    border-width: 10px;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.button-img{
+    width: 100%;
+}
+
+.no-padding{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
